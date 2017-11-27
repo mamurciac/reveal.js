@@ -60,7 +60,7 @@ H:
 
 ## ILUSTRACIÓN DE LA SOLUCIÓN
 
-El Antialiasing hace uso de algoritmos de efecto borroso
+El Antialiasing hace uso de algoritmos de suavizado de bordes
 
 <img style="border: none;box-shadow: none;width: 600px;height: 425px;" src="images/Bordes3.png"/>
 
@@ -82,8 +82,7 @@ CoverageSampling: Versión de MultiSampling de NVIDIA optimizada
 
 H:
 
-## DEMO
-[URL del Script](https://github.com/mamurciac)
+## DEMO [URL del Script](https://github.com/mamurciac/reveal.js/blob/master/sketches/mySketch.js)
 
 <div id='mysketch_id'></div>
 
@@ -96,5 +95,3 @@ H:
 <small>Rasterization: a Practical Implementation. Scratchapixel 2.0. Recuperado de <a href="https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation">https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation</a></small>
 <small>Quagliozzi, E. Z Buffering. PDA - FX. Recuperado de <a href="http://pda-fx.net/pagedoc.php?id=4&lg=EN">http://pda-fx.net/pagedoc.php?id=4&amp;lg=EN</a></small>
 <small>23 de Septiembre de 2017. Algoritmo de Bresenham. Wikipedia. Recuperado de <a href="https://es.wikipedia.org/wiki/Algoritmo_de_Bresenham">https://es.wikipedia.org/wiki/Algoritmo_de_Bresenham></a></small>
-
-H:
