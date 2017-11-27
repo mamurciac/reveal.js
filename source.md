@@ -11,8 +11,7 @@ H:
 3. Ilustración de la Solución
 4. Antecedentes
 5. Demo
-6. Conclusiones
-7. Bibliografía
+6. Bibliografía
 
 H:
 
